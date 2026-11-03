@@ -87,7 +87,6 @@ No. It is an independently developed product with no affiliation to Gojek.
 ## Links
 
 - Product page: https://zipprr.com/gojek-clone/
-- All Zipprr products: https://zipprr.com/businesses/
 - Book a free 30-minute demo: https://zipprr.com/schedule-free-demo/
 - WhatsApp: https://wa.me/919789308131
 - Email: support@zipprr.com
