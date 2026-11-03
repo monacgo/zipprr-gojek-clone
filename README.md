@@ -6,7 +6,7 @@ A multi-service on-demand platform that puts rides, food delivery and parcel del
 
 ## What is a Gojek Clone?
 
-A Gojek Clone is ready-made software for launching your own multi-service app. Instead of building separate taxi, food and courier products, you run all three from one codebase under your own brand.
+A [Gojek Clone](https://zipprr.com/gojek-clone/) is ready-made software for launching your own multi-service app. Instead of building separate taxi, food and courier products, you run all three from one codebase under your own brand.
 
 It suits founders and operators who want to launch in a single city first, for example in the US, UK or UAE, and add services as demand grows.
 
@@ -42,7 +42,7 @@ Extra services such as grocery, pharmacy, home services, car rental, laundry pic
 - App store submission for Google Play and the Apple App Store (Apple and Google make the final approval decision)
 - 90 days of support
 
-The Gojek Clone is sold as a single Pro plan, as a one-time payment.
+The Zipprr [Gojek Clone](https://zipprr.com/gojek-clone/) is sold as a single Pro plan, as a one-time payment.
 
 ## Hosting and third-party costs
 
