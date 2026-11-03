@@ -1,14 +1,32 @@
 # Zipprr Gojek Clone
 
-A multi-service on-demand platform that puts rides, food delivery and parcel delivery into one branded app. Built with Flutter apps and a Laravel backend, and sold by [Zipprr](https://zipprr.com/gojek-clone/) as a one-time $890 package.
+**Zipprr Gojek Clone is a ready-made multi-service app for launching rides, food delivery and parcel delivery under your own brand. It is a one-time $890 package with Flutter mobile apps and a Laravel backend.**
+
+Learn more on the [Zipprr Gojek Clone](https://zipprr.com/gojek-clone/) product page. Last updated: November 2026.
 
 > **Non-affiliation:** Zipprr Gojek Clone is an independently developed product. It is not affiliated with, endorsed by or sponsored by Gojek.
+
+## At a glance
+
+| Item | Details |
+|---|---|
+| Product | Zipprr Gojek Clone (multi-service on-demand app) |
+| Price | $890, one-time payment |
+| Plan | Pro plan only |
+| Services | Ride booking, food delivery, parcel delivery |
+| Apps | Customer app, driver app, restaurant partner app (Android and iOS) |
+| Panels | Admin panel, staff and support panel, marketing website, web installer |
+| Tech stack | Flutter apps, Laravel backend with a REST API |
+| Source code | 100% of the source code for the Flutter apps and Laravel backend |
+| Support | 90 days included |
+| Hosting | Not included. You choose and pay for your own hosting |
+| Best for | Founders launching in one city first, for example in the US, UK or UAE |
 
 ## What is a Gojek Clone?
 
 A [Gojek Clone](https://zipprr.com/gojek-clone/) is ready-made software for launching your own multi-service app. Instead of building separate taxi, food and courier products, you run all three from one codebase under your own brand.
 
-It suits founders and operators who want to launch in a single city first, for example in the US, UK or UAE, and add services as demand grows.
+It suits founders and operators who want to launch in a single city first, and add services as demand grows.
 
 ## Services included
 
@@ -48,7 +66,7 @@ The Zipprr [Gojek Clone](https://zipprr.com/gojek-clone/) is sold as a single Pr
 
 Hosting and domain are not included. You choose and pay for your own hosting. These are billed separately by their providers:
 
-- Apple Developer account and Google Play developer account
+- Apple Developer account (US$99 per year) and Google Play developer account (US$25 one-time)
 - Maps, SMS or OTP, and email services
 - Payment gateway fees
 
@@ -69,14 +87,29 @@ Timing depends on customization, integrations and app store review. Ask for an e
 
 ## FAQ
 
-**What does a Gojek Clone cost?**
-The Zipprr Gojek Clone is a one-time $890 payment. Hosting, store accounts, maps, SMS and payment gateway fees are paid separately to those providers.
+**What is a Gojek clone script?**
+A Gojek clone script is ready-made software that lets you run rides, food delivery and parcel delivery from one branded app. The Zipprr Gojek Clone includes the apps, admin panel and backend.
 
-**Which services come with it?**
-Rides, food delivery and parcel delivery. Other services can be built as custom work and are quoted after scoping.
+**How much does a Gojek clone cost?**
+The Zipprr Gojek Clone is a one-time $890 payment, sold as a single Pro plan. Hosting, store accounts, maps, SMS and payment gateway fees are paid separately to those providers.
+
+**Which services come with a Gojek clone?**
+The Zipprr Gojek Clone includes ride booking (on-demand, scheduled and intercity), food delivery and parcel delivery. Other services can be built as custom work and are quoted after scoping.
+
+**Does the Gojek clone include mobile apps?**
+Yes. It includes a customer app, a driver app and a restaurant partner app for Android and iOS, plus app store submission. Apple and Google make the final approval decision.
+
+**What tech stack does the Zipprr Gojek Clone use?**
+The mobile apps are built with Flutter. The backend is Laravel with a REST API.
 
 **Do I get the source code?**
 Yes. You receive 100% of the source code for the Flutter apps and the Laravel backend. Ask for the written license terms in your demo.
+
+**Can I add grocery, pharmacy or home services?**
+Yes, as custom work. Grocery, pharmacy, home services, car rental, laundry pickup and business courier are quoted separately after scoping.
+
+**What are the ongoing costs after buying?**
+You pay for your own hosting and domain, an Apple Developer account (US$99 per year), a Google Play developer account (US$25 one-time), and maps, SMS or OTP, email and payment gateway fees.
 
 **Is it a SaaS subscription?**
 No. It is a one-time purchase that you deploy on hosting you choose.
